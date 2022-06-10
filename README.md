@@ -1,2 +1,5 @@
 # exoPCCjs
-#Atao ato ny anaran'ny ankizy
+#NANTENAINJANAHARY Mamilalaina Marina Raissa IMTICIA3; numéro 03
+#RASOLOFOMANANA MANITRA AROVANA Ny Avo IMTICIA3; numéro 14
+#RATEFINANAHARY Famenontsoa Landry Emile ISAIA3; numéro 07
+#RANDRIAMBOLOLOMANANA Miaro Nirina ISAIA3; numéro 12
