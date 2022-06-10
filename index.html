@@ -4,30 +4,33 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/index.css">
-    <!--Ataovy izay @ itandryfa mety ky le front fa le id sy name fotsiny no ataovy tsy miova ah
-        de mbola ampiako anarana koa le option reny
-        le back @ js no mbola ataoko
-        de ataovy ao @ index.css ao @ fichier css ky le style ah
-    -->
     <title>Itinerary</title>
 </head>
 <body>
-    <form action="">
-        <label name="ori">Start</label>
-        <select id="origine">
-		    <option></option>
-		    <option></option>
-		    <option></option>
-	    </select>
-        <label name="dest">Destination</label>
-        <select id="desti">
-		    <option></option>
-		    <option></option>
-		    <option></option>
-	    </select>
-        <input type="submit" id="OK" value="Enter">
-    </form>
-    <script src="js/index.js"></script>
+    <header class="head">
+        <h1>WELCOME</h1>
+    </header>
+    <p class="p1">E-TONGA</p>
+    <div class="s1">
+        <form action="">
+            <label class="l1" name="ori">Start</label>
+            <select class="l2" id="origine">
+                <option value="Ivato">Ivato</option>
+		        <option value="Talatamaty">Talatamaty</option>
+		        <option value="67Ha">67Ha</option>
+            </select>
+            <label class="l1" name="dest">Destination</label>
+            <select class="l2" id="desti">
+                <option value="Ivato">Ivato</option>
+		        <option value="Talatamaty">Talatamaty</option>
+		        <option value="67Ha">67Ha</option>
+            </select>
+            <input type="submit" id="OK" value="Enter">
+        </form>
+        <p id="vali"></p>
+    </div>
+    <script src="js/Algo.js"></script>
 </body>
 </html>
